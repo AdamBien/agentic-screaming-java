@@ -29,3 +29,7 @@ https://www.youtube.com/playlist?list=PLPAU3ZKGVxqY - Screaming Architecture wit
 https://airhacks.live - Live virtual workshops with Adam Bien for Java and cloud development training
 
 https://airhacks.university - One-day in-person workshop at Munich Airport on architect-grade Java development with LLMs
+
+https://agentskills.io - the standard for AGENTS.md
+
+https://agents.md - the README.md for agents
